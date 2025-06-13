@@ -1,6 +1,6 @@
 package Level1;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class DivisibilityCheck {
     public static void main(String[] args){

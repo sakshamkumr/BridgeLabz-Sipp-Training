@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProgrammingElements/DAY1_ProgrammingElements.iml" filepath="$PROJECT_DIR$/ProgrammingElements/DAY1_ProgrammingElements.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DAY2_ControlFlow/DAY2_ControlFlow.iml" filepath="$PROJECT_DIR$/DAY2_ControlFlow/DAY2_ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY1_ProgrammingElements/DAY1_ProgrammingElements.iml" filepath="$PROJECT_DIR$/DAY1_ProgrammingElements/DAY1_ProgrammingElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlFlow/DAY2_ControlFlow.iml" filepath="$PROJECT_DIR$/ControlFlow/DAY2_ControlFlow.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sipp-Learning.iml" filepath="$PROJECT_DIR$/Sipp-Learning.iml" />
     </modules>
   </component>
