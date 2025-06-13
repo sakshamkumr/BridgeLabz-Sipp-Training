@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProgrammingElements/DAY1_ProgrammingElements.iml" filepath="$PROJECT_DIR$/ProgrammingElements/DAY1_ProgrammingElements.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ControlFlow/DAY2_ControlFlow.iml" filepath="$PROJECT_DIR$/ControlFlow/DAY2_ControlFlow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sipp-Learning.iml" filepath="$PROJECT_DIR$/Sipp-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BridgeLabz-Sipp-Training.iml" filepath="$PROJECT_DIR$/.idea/BridgeLabz-Sipp-Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlFlow/LEVEL2/ControlFlow2/ControlFlow2.iml" filepath="$PROJECT_DIR$/ControlFlow/LEVEL2/ControlFlow2/ControlFlow2.iml" />
     </modules>
   </component>
 </project>
