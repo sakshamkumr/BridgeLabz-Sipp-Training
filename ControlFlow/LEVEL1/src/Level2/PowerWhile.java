@@ -14,6 +14,5 @@ public class PowerWhile {
             i++;
         }
         System.out.println(base + "to the power " + exponenet + " is = " + ans);
-
     }
 }
