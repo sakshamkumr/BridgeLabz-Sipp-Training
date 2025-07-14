@@ -1,4 +1,8 @@
 # [BridgeLabz Java Training Repository](https://github.com/sakshamkumr/BridgeLabz-Sipp-Training)
+
+This repository contains structured Java practice content categorized into fundamental topics and multiple levels for progressive learning. It is designed to help learners strengthen their Knowledge in Data Structure and Algorithms through hands-on coding and by solving Scenario Based Problems.
+
+All work in this repository is done under the DSA Branch.
 ## Branch:[DSA](https://github.com/sakshamkumr/BridgeLabz-Sipp-Training/tree/DSA)
 
 ## [Folder Structure](https://github.com/sakshamkumr/BridgeLabz-Sipp-Training/tree/DSA/DSA/src)
